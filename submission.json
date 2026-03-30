@@ -1,0 +1,6 @@
+{
+  "prompt": "Cinematic documentary photograph of a lone hiker descending a vast, rugged mountain landscape covered in thick fog. The hiker is blindfolded, carefully feeling the slope underfoot with cautious steps, arms slightly extended for balance. The terrain is uneven with multiple ridges and valleys visible faintly through breaks in the fog. In the far distance, a deeper and wider valley is partially visible, but the hiker is unknowingly moving toward a nearer, shallower valley. Natural lighting, overcast sky, realistic textures, wide-angle composition, strong depth and perspective. No diagrams, no graphs, no text, no labels, no mathematical notation, no equations. No floating elements, no annotations, no artificial or non-physical objects. The entire scene must look like a real photograph taken in the natural world.",
+  "model": "DALL-E 3",
+  "concept": "gradient descent",
+  "metaphor": "A blindfolded hiker follows only the local slope underfoot, moving downhill without seeing the full landscape, illustrating optimization using local gradients and possible convergence to a non-global minimum."
+}
